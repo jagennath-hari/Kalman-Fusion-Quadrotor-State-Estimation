@@ -16,4 +16,4 @@ Click HERE for Part 2.
 Click HERE for Part 3.
 
 ## Conclusion
-The EKF proves to be the most efficient tool for fusing different sensors. The added benefit of high precision and fast computational speed makes it the most optimal sensor fusion technique for mobile robots lacking high-end on board computer. UKF on the other hand improves the accuracy of state estimation using sigma point propogation by sacrificing computational speed. The UKF is a viable 
+The EKF proves to be the most efficient tool for fusing different sensors. The added benefit of high precision and fast computational speed makes it the most optimal sensor fusion technique for mobile robots lacking high-end on board computer. UKF on the other hand improves the accuracy of state estimation using sigma point propogation by sacrificing computational speed. The UKF is a viable state estimation technique for those robots having sufficient computational power, moreover visual odometry and IMU tends to drift over time, the usage of the UKF can improve the accuracy of state estimation when robots are traversing over longer durations.
