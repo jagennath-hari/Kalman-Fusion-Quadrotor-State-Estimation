@@ -5,3 +5,9 @@ To estimate the state of a quadrotor using different sensor a roboust state esti
   <img src ='assets/KLT_tracker_ORB.gif' width="1000" height="500" >
   Kanade–Lucas–Tomasi(KLT) feature tracker using ORB
 </p>
+
+## Experiment and Inference
+The $3$ submodules contain each of the parts described above.
+Click HERE for Part 1.
+Click HERE for Part 2.
+Click HERE for Part 3.
