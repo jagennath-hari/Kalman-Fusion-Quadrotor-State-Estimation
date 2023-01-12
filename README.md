@@ -3,6 +3,8 @@ To estimate the state of a quadrotor using different sensor a roboust state esti
 
 <p align="center">
   <img src ='assets/KLT_tracker_ORB.gif' width="1000" height="500" >
+</p>
+<p align="center">
   Kanade–Lucas–Tomasi(KLT) feature tracker using ORB
 </p>
 
