@@ -14,7 +14,7 @@ The $3$ submodules contain each of the parts described above.
 
 Click [HERE](https://github.com/jagennath-hari/Project-1-EKF.git) for Part 1.
 
-Click HERE for Part 2.
+Click [HERE](https://github.com/jagennath-hari/Project-2-Visual-Odometry-RANSAC.git) for Part 2.
 
 Click HERE for Part 3.
 
