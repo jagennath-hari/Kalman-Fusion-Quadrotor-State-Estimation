@@ -12,7 +12,7 @@ To estimate the state of a quadrotor using different sensor a roboust state esti
 ## Experiment and Inference
 The $3$ submodules contain each of the parts described above.
 
-Click HERE for Part 1.
+Click [HERE](https://github.com/jagennath-hari/Project-1-EKF.git) for Part 1.
 
 Click HERE for Part 2.
 
