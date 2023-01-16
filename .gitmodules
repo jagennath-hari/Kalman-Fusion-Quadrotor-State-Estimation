@@ -1,0 +1,6 @@
+[submodule "Part"]
+	path = Part
+	url = https://github.com/jagennath-hari/Project-1-EKF
+[submodule "Part-a"]
+	path = Part-a
+	url = https://github.com/jagennath-hari/Project-1-EKF
