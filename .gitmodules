@@ -4,3 +4,6 @@
 [submodule "Part-b"]
 	path = Part-b
 	url = https://github.com/jagennath-hari/Project-2-Visual-Odometry-RANSAC
+[submodule "Part-c"]
+	path = Part-c
+	url = https://github.com/jagennath-hari/Project-3-UKF
