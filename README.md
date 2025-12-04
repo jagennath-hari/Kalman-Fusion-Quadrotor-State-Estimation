@@ -9,6 +9,15 @@ To estimate the state of a quadrotor using different sensor a roboust state esti
   Kanade–Lucas–Tomasi(KLT) feature tracker using ORB
 </p>
 
+## Setup
+### 1. Install Git LFS
+```bash
+git lfs install
+```
+
+### 2. Clone the full repository with submodules
+git clone --recursive https://github.com/jagennath-hari/Kalman-Fusion-Quadrotor-State-Estimation.git
+
 ## Experiment and Inference
 The $3$ submodules contain each of the parts(a, b, c) described above.
 
