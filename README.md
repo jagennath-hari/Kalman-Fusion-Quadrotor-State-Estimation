@@ -16,7 +16,9 @@ git lfs install
 ```
 
 ### 2. Clone the full repository with submodules
+```bash
 git clone --recursive https://github.com/jagennath-hari/Kalman-Fusion-Quadrotor-State-Estimation.git
+```
 
 ## Experiment and Inference
 The $3$ submodules contain each of the parts(a, b, c) described above.
